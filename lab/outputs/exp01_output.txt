@@ -1,0 +1,12 @@
+v+w: [5. 1. 5.] dot: 8.0 L2 norms: 3.7416573867739413 4.58257569495584
+A+B:
+[[3. 2.]
+ [4. 7.]]
+A@B:
+[[ 4.  6.]
+ [10. 12.]]
+transpose:
+[[1. 3.]
+ [2. 4.]]
+Matrix-vector: [ 4. 10.] det(A): -2.0000000000000004
+Saved: C:\Users\srika\Downloads\Deep_Learning_All_30_Experiments\Deep_Learning_30_Experiments\outputs\exp01_vectors.png

@@ -1,0 +1,2 @@
+Final weights [0.6 0.3] bias -0.6 outputs [([0, 0], 0), ([0, 1], 0), ([1, 0], 0), ([1, 1], 1)]
+Saved: C:\Users\srika\Downloads\Deep_Learning_All_30_Experiments\Deep_Learning_30_Experiments\outputs\exp07_perceptron.png

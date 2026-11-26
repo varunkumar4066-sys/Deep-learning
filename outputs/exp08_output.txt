@@ -1,0 +1,2 @@
+XOR prediction: [0.001 0.999 0.999 0.001]
+Saved: C:\Users\srika\Downloads\Deep_Learning_All_30_Experiments\Deep_Learning_30_Experiments\outputs\exp08_backprop.png

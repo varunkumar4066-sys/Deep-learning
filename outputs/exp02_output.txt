@@ -1,0 +1,15 @@
+   feature_x  feature_y
+0   0.304717   0.717278
+1  -1.039984  -1.168230
+2   0.750451   1.396105
+3   0.940565   2.014986
+4  -1.951035  -4.536949
+Covariance:
+[[0.77780571 1.36847732]
+ [1.36847732 2.66627539]]
+Eigenvalues:
+[3.38466186 0.05941925]
+Eigenvectors:
+[[ 0.46480137 -0.88541498]
+ [ 0.88541498  0.46480137]]
+Saved: C:\Users\srika\Downloads\Deep_Learning_All_30_Experiments\Deep_Learning_30_Experiments\outputs\exp02_eigen.png

@@ -1,0 +1,5 @@
+degree train_MSE test_MSE
+1 0.17 0.205
+3 0.024 0.048
+12 0.017 0.207
+Saved: C:\Users\srika\Downloads\Deep_Learning_All_30_Experiments\Deep_Learning_30_Experiments\outputs\exp05_bias_variance.png

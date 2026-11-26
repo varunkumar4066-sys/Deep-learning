@@ -1,0 +1,5 @@
+GD final weight 3.0 loss 1.0
+SGD final weight 3.5304 loss 1.2814
+Momentum final weight 3.0023 loss 1.0
+Adam final weight 3.0429 loss 1.0018
+Saved: C:\Users\srika\Downloads\Deep_Learning_All_30_Experiments\Deep_Learning_30_Experiments\outputs\exp06_optimizers.png

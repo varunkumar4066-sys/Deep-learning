@@ -1,0 +1,13 @@
+8 3 32 parameters 1370 accuracy 0.867
+16 3 32 parameters 2730 accuracy 0.891
+16 5 64 parameters 2986 accuracy 0.896
+32 3 64 parameters 5450 accuracy 0.904
+Saved: C:\Users\srika\Downloads\Deep_Learning_All_30_Experiments\Deep_Learning_30_Experiments\outputs\exp12_cnn_hyperparameters.png
+
+STDERR:
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1795679020.936344   26768 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1795679023.419073   26768 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+I0000 00:00:1795679024.708858   26768 cpu_feature_guard.cc:227] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.

@@ -1,0 +1,2 @@
+P(disease | positive) = 0.08756
+Saved: C:\Users\srika\Downloads\Deep_Learning_All_30_Experiments\Deep_Learning_30_Experiments\outputs\exp03_probability.png
